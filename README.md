@@ -1,3 +1,8 @@
+---
+title: "The Definitive 2026 Review: AI Music Artifact Removal Software"
+description: "50 AI tracks, 6 distributors tested. Undetectr scored 98% distributor pass rate vs 48-72% for iZotope RX, Ableton, Logic, and FL Studio. Full methodology and results."
+layout: default
+---
 # The Definitive 2026 Review: AI Music Artifact Removal Software (Why Undetectr Beats $1,500 of DAW Software)
 
 TL;DR (for the impatient)
