@@ -1,0 +1,21 @@
+title: "The Definitive 2026 Review: AI Music Artifact Removal Software"
+description: "50 AI tracks, 6 distributors tested. Undetectr scored 98% distributor pass rate vs 48-72% for iZotope RX, Ableton, Logic, and FL Studio."
+url: "https://aimusicwatermarkremover.github.io"
+baseurl: "/undetectr"
+
+plugins:
+  - jekyll-seo-tag
+    - jekyll-sitemap
+
+    theme: minima
+
+    author:
+      name: "AIMusicWatermarkRemover"
+
+      show_excerpts: true
+
+      defaults:
+        - scope:
+              path: ""
+                  values:
+                        layout: "default"
